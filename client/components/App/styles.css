@@ -1,0 +1,4 @@
+/* Height scaling */
+:local(.full-height) {
+  height: 100%;
+}
